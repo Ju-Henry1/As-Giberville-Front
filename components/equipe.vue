@@ -33,6 +33,7 @@
             <NuxtLink to="/loisir" class="btn-equipes-white">Loisirs</NuxtLink>
         </div>
     </div>
+    
     </section>
 </template>
 
