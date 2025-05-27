@@ -6,21 +6,21 @@
         <div class="cards">
             <div class="card-blue">
                 <div class="icon-equipe">
-                    <img src="~/assets/img/juniors.svg" alt="Juniors" />
+                    <img src="~/assets/img/Juniors.svg" alt="Juniors" />
                 </div>
                 <p class="category">Baby - Mini - U09</p>
                 <button class="btn-equipes-white">Juniors</button>
             </div>
             <div class="card-white">
                 <div class="icon-equipe">
-                    <img src="~/assets/img/jeunes.svg" alt="Jeunes" />
+                    <img src="~/assets/img/Jeunes.svg" alt="Jeunes" />
                 </div>
                 <p class="category">U11 - U13M - U13F - U17M - U18F</p>
                 <button class="btn-equipes-blue">Jeunes</button>  
             </div>
             <div class="card-blue">
                 <div class="icon-equipe">
-                    <img src="~/assets/img/seniors.svg" alt="Seniors" />
+                    <img src="~/assets/img/Seniors.svg" alt="Seniors" />
                 </div>
                 <p class="category">M1 - M2 - F1 - F2</p>
                 <button class="btn-equipes-white">Seniors</button>
@@ -28,7 +28,7 @@
         </div>
         <div class="card-large">
             <div class="icon-equipe">
-                <img src="~/assets/img/ballon.svg" alt="Loisir" />
+                <img src="~/assets/img/Ballon.svg" alt="Loisir" />
             </div>
             <NuxtLink to="/loisir" class="btn-equipes-white">Loisirs</NuxtLink>
         </div>

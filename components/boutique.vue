@@ -35,6 +35,7 @@
       </div>
   
       <a href="/boutique" class="btn-boutique">Découvrir tous les produits</a>
+      
     </section>
   </template>
   
