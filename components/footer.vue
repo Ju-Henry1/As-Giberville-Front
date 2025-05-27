@@ -20,7 +20,7 @@
             <!-- Bloc partenaires -->
             <div class="footer-partenaires">
                 <img src="~/assets/img/Calvados-Departement.png" alt="Calvados-Departement">
-                <img src="~/assets/img/Déco-Siram.Png" alt="Déco-Siram">
+                <img src="~/assets/img/Déco-Siram.png" alt="Déco-Siram">
                 <img src="~/assets/img/Distri-Drinks.png" alt="Distri-Drinks">
                 <img src="~/assets/img/giberville.jpg" alt="Giberville">
             </div>
